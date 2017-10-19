@@ -8,7 +8,7 @@ Areas worth investigating-- effective Field Goal %, minutes played, fouls for an
 
 # Downloading the dataset
 
-This dataset has been uploaded to GitHub and cannot be accessed otherwise unless being subscribed to Synergy Sports Technology.
+This dataset has been uploaded to GitHub (storytelling-with-data/data-stories/wbk-small-ball/DATA-ivy-boxscores.xlsx) and cannot be accessed otherwise unless being subscribed to Synergy Sports Technology.
 
 # Running the code
 
