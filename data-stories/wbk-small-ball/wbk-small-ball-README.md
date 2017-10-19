@@ -1,14 +1,14 @@
-# Ivy League Women's Basketball Small Ball Dataset
+# The Move to Small Ball: Is It Smart?
 
 This repository contains an excel spreadsheet of the Cumulative Boxscores from each Ivy League Women's Basketball team from the seasons 2011-2012 through 2016-2017 using Synergy Sports Technology data.
 
-The goal of this project is to use this dataset to determine if the "small ball" approach to basketball at the NBA level is statistically viable to reproduce at the college women's basketball level.
+The goal of this project is to use this dataset to determine if the "small ball" approach to basketball at the NBA level is statistically viable to be reproduced at the collegiate women's basketball Divisoin I level.
 
-Areas to investigate-- effective Field Goal %, minutes played, fouls for and against, etc.
+Areas worth investigating-- effective Field Goal %, minutes played, fouls for and against, etc.
 
 # Downloading the dataset
 
-Provide a link to the dataset you're using for the project, along with a brief description of the dataset.
+This dataset has been uploaded to GitHub and cannot be accessed otherwise unless being subscribed to Synergy Sports Technology.
 
 # Running the code
 
