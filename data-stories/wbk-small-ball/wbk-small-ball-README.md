@@ -1,4 +1,4 @@
-# The Move to Small Ball: Is It Smart?
+# Is "Small Ball" Smart for Ivy Women?
 
 This repository contains an excel spreadsheet of the Cumulative Boxscores from each Ivy League Women's Basketball team from the seasons 2011-2012 through 2016-2017 using Synergy Sports Technology data.
 
